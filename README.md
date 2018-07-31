@@ -9,8 +9,11 @@ This environment is not very good compared to other OpenAI envs, so making a dec
 Based on this great course: https://github.com/simoninithomas/Deep_reinforcement_learning_Course.
 
 ## Videos
+
 First episode
+
 ![First episode](initial.gif)
 
 After some training
+
 ![Learning](learning.gif)
